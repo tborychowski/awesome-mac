@@ -39,12 +39,23 @@ All of the apps mentioned here are free and Open Source apps, unless explicitly 
 - [xScope](https://xscopeapp.com) - does measuring, color picking & other designy things (Paid: $50)
 
 
+# Notes and writing
+- [Bear](notes/bear.md) - note taking (Subscription: $15/year).
+- [Craft](notes/craft.md) - note taking and organizing app (Subscription: $60/year, with a limited free option).
+- [GoodNotes](notes/goodnotes.md) - note taking (Paid: $9).
+- [Drafts](notes/drafts.md) - note taking (Subscription: €21/year).
+- [FirstDraftPro](notes/firstdraftpro.md) - writing app (Subscription: $84/year).
+- [Notebooks](notes/notebooks.md) - note taking (Paid: €48).
+- [Mellel](notes/mellel.md) - word processor (Paid: €50).
+- [Supernotes](notes/supernotes.md) - note taking (Paid: €82).
+- [Ulysses](notes/ulysses.md) - writing app (Subscription: $50/year).
+- [Workflowy](notes/workflowy.md) - probably an outlining app (Subscription: $50/year).
+
 
 
 # Productivity & automation
 - [Alfred](https://www.alfredapp.com) - absolutely the best Spotlight replacement. Basic version is free, but only with the "Powerpack" it reaches  its full potential (Powerpack cost: £29)
 - [aText](https://www.trankynam.com/atext/) - text expander (Paid: $4.99).
-- [Bear](https://bear.app/) - best note taking app in the world (Subscription: $15/year).
 - [Contexts](https://contexts.co) - cmd+tab replacement that shows windows not apps (Paid $10)
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) - context automation (abandonware).
 - [Fantastical](https://flexibits.com/fantastical) - probably the best calendar app for mac (Subscription ~€44/yr)
