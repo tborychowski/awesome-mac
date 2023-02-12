@@ -1,11 +1,6 @@
-FirstDraftPro
-=============
+# [FirstDraftPro](https://www.firstdraftpro.com)
 
-[Homepage](https://www.firstdraftpro.com)
 
 <br>
 
 ![Screenshot](firstdraftpro.png)
-
-
-# Features

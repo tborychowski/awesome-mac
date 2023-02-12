@@ -1,14 +1,5 @@
-Notebooks ★
-===========
+# [Notebooks](https://www.notebooksapp.com) ★
 
-[Homepage](https://www.notebooksapp.com)
-
-<br>
-
-![Screenshot](craft.png)
-
-
-# Features
 - pretty functional
 - native app
 - UX is a bit lacking here and there
@@ -18,3 +9,7 @@ Notebooks ★
 - lack of code highlighting
 - markdown is a bit simplified (code fence doesn’t work)
 - no grammar check
+
+<br>
+
+![Screenshot](craft.png)

@@ -1,13 +1,8 @@
-Supernotes ★★
-=============
+# [Supernotes](https://supernotes.app) ★★
 
-[Homepage](https://supernotes.app)
+- no structure: all notes are cards .
+- really weird UX
 
 <br>
 
 ![Screenshot](supernotes.png)
-
-
-# Features
-- no structure: all notes are cards .
-- really weird UX

@@ -1,12 +1,7 @@
-Mellel ★★★★
-============
+# [Mellel](https://www.mellel.com) ★★★★
 
-[Homepage](https://www.mellel.com)
+- the UI looks like designed 20 years ago
 
 <br>
 
 ![Screenshot](mellel.png)
-
-
-# Features
-- the UI looks like designed 20 years ago
