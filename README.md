@@ -30,7 +30,7 @@ A curated list of MacOS apps.
 - [Meta](https://www.nightbirdsevolve.com/meta/) ★★★★ 🔗 - pretty looking mp3 tag editor. (Paid: $20)
 - [Permute](https://software.charliemonroe.net/permute/) ★★★★★ 🔗 - Best video/audio/image converter (Paid: $15)
 - [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/) ★★★★ 🔗 - Best PDF compressor (Paid: $10/€11)
-- [Reflex](https://stuntsoftware.com/reflex/) ★★ 🔗 - ensures that media keys hit the right app (stop YT taking over).
+- [Reflex](https://stuntsoftware.com/reflex/) ★★★ 🔗 - ensures that media keys hit the right app (stop YT taking over).
 - [Tagger](http://bilalh.github.io/projects/tagger/) ★★★ 🔗 - mp3 tags editor.
 
 
