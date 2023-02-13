@@ -67,6 +67,7 @@ A curated list of MacOS apps.
 # Development
 - [Aurora](dev/aurora.md) ★ - opensource IDE built by the community, for the community.
 - [CotEditor](https://coteditor.com/) ★★★ 🔗 - similar to Notepad++ for Windows.
+- [Dash](https://kapeli.com/dash) ★★★★ 🔗 - instant offline access to 200+ API documentation sets (you can even backup stack-overflow!) (Paid: €33).
 - [Insomnia Core](https://insomnia.rest/download/#mac) ★★★ 🔗 - REST API tester (doesn't require an account and looks great). Did I mention that electron apps are usually not that slow? Well... except this one. Insomnia is extremely slow to start. Although, once it starts up, it works great.
 - [iTerm2](https://iterm2.com/) ★★★★★ 🔗 - Customizable terminal emulator.
 - [Kaleidoscope](https://kaleidoscope.app) ★★★ 🔗 - file & folder diff viewer, very easy to use & setup and very expensive (€150)
