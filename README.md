@@ -42,10 +42,11 @@ A curated list of MacOS apps.
 
 
 
-# Browsers
+# Browsers and browser tools
 - [Arc](https://arc.net) ★★★★ 🔗 - Tabs in the sidebar. Nice organisation and usability. Command palette for everything.
+- [Choosy](https://www.choosyosx.com/) ★★★ 🔗 - Opens every link in the right browser (Paid: $10).
 - [SigmaOS](https://sigmaos.com) ★★ 🔗 - Tabs in the sidebar. Like Arc but worse. Cannot even change the wallpaper.
-
+- [Velja](https://sindresorhus.com/velja) ★★★★ 🔗 - Browser picker with lots of cool built-in.
 
 
 
@@ -53,6 +54,7 @@ A curated list of MacOS apps.
 
 # Design
 - [ColorSlurp](https://colorslurp.com) ★★★★★ 🔗 - best color picker for mac! (Freemium, Pro €8)
+- [CleanShot X](https://cleanshot.com) ★★★★★ 🔗 - Best screenshot/video recording app for mac! (Paid: $29)
 - [Iconology](https://apps.apple.com/us/app/iconology/id1463452867) ★★ 🔗 - icon maker
 - [iConvert Icons](https://iconverticons.com) ★★★ 🔗 - A darag&drop image converter (Paid: $10)
 - [ImageOptim](https://imageoptim.com/mac) ★★★ 🔗 - Best image compressor
@@ -68,12 +70,14 @@ A curated list of MacOS apps.
 - [Aurora](dev/aurora.md) ★ - opensource IDE built by the community, for the community.
 - [CotEditor](https://coteditor.com/) ★★★ 🔗 - similar to Notepad++ for Windows.
 - [Dash](https://kapeli.com/dash) ★★★★ 🔗 - instant offline access to 200+ API documentation sets (you can even backup stack-overflow!) (Paid: €33).
+- [Forklift](https://binarynights.com/) ★★★★ 🔗 - 2 panel file browser (Paid: $29.95)
 - [Insomnia Core](https://insomnia.rest/download/#mac) ★★★ 🔗 - REST API tester (doesn't require an account and looks great). Did I mention that electron apps are usually not that slow? Well... except this one. Insomnia is extremely slow to start. Although, once it starts up, it works great.
 - [iTerm2](https://iterm2.com/) ★★★★★ 🔗 - Customizable terminal emulator.
 - [Kaleidoscope](https://kaleidoscope.app) ★★★ 🔗 - file & folder diff viewer, very easy to use & setup and very expensive (€150)
-- [RapidAPI (formerly: Paw)](https://paw.cloud) ★★★ 🔗 - API & HTTP client, now free!
+- [Marta](https://marta.sh) ★★★ 🔗 - 2-panel file browser with command palette
 - [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) ★★★ 🔗 - Regex tester (Paid: $3)
 - [Peek](https://www.bigzlabs.com/peek.html) ★★★ 🔗 - to quicklook code files (Paid: $3)
+- [RapidAPI (formerly: Paw)](https://paw.cloud) ★★★ 🔗 - API & HTTP client, now free!
 - [RegExp.app](https://loshadki.app/regexp/) ★★★ 🔗 - regex tester for JS, Python, Go, Swift & Rust
 - [Sequel Ace](https://sequel-ace.com/) ★★★ 🔗 - a nice MySQL/SQLite DB manager for mac.
 - [SQLiteStudio](https://sqlitestudio.pl/) ★★★ 🔗 - SQLite DB manager
@@ -126,6 +130,7 @@ A curated list of MacOS apps.
 - [Gestimer](http://maddin.io/gestimer/) ★★★★ 🔗 - for quick reminders (Paid: $4)
 - [Homerow](https://www.homerow.app) ★★★ 🔗 - navigate everything on screen with the keyboard (free for now, later paid: ~$30-40)
 - [Klokki Slim](https://apps.apple.com/app/id1459795140) ★★★★ 🔗 - nice & simple 5time tracking app.
+- [OpenIn](https://loshadki.app/openin/) ★★★ 🔗 - Handle opening urls & files in different browsers (allows for rules or even javascripts) (Paid: $10)
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ★★★★ 🔗 - Finder toolbar and menubar app for MacOS to open the current directory in Terminal, iTerm, VSCode and others.
 - [OwlOCR](https://owlocr.com/) ★★★★ 🔗 - OCR anything (Core version is free, Pro costs $8.99).
 - [Parcel](https://parcelapp.net) ★★★★ 🔗 - Tracks deliveries and can automatically fetch amazon orders! (Subscription ~€3.5/yr)
@@ -157,20 +162,15 @@ A curated list of MacOS apps.
 - [Amphetemine](https://apps.apple.com/app/amphetamine/id937984704?mt=12) ★★★ 🔗 - Prevent mac from going to sleep.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) ★★★★ 🔗 - Cleans-up after you uninstall another app.
 - [Bartender](https://www.macbartender.com) ★★★★ 🔗 - Hide icons in menubar (Paid: $15 + local taxes).
-- [Choosy](https://www.choosyosx.com/) ★★★★ 🔗 - Opens every link in the right browser (Paid: $10).
-- [CleanShot X](https://cleanshot.com) ★★★★★ 🔗 - Best screenshot/video recording app for mac! (Paid: $29)
 - [CommandQ](https://commandqapp.com) ★★★ 🔗 - when you accidentally quit apps (Paid: $13)
 - [Daisy Disk](https://daisydiskapp.com/) ★★★★ 🔗 - Disk usage viewer/manager (Paid: €11)
 - [Dato](https://sindresorhus.com/dato) ★★★★ 🔗 - Menubar Clock with calendar integration (Paid: $4.99)
 - [DropOver](https://dropoverapp.com) ★★★★ 🔗 - drag&drop helper (Paid: €4)
 - [Forecast Bar](http://forecastbar.com) ★★★ 🔗 - a menubar weather app (Subscription ~€10.50 a year)
-- [Forklift](https://binarynights.com/) ★★★★ 🔗 - 2 panel file browser (Paid: $29.95)
 - [iperf](https://iperf.fr/iperf-download.php) ★★★★ 🔗 - network performance/throughput measure tool.
 - [Latest](https://github.com/mangerlahn/Latest) ★★★ 🔗 - update apps - nicer UI than MacUpdater, but doesn't support many apps (that MacUpdater does), and doesn't run in background.
 - [Lunar](https://lunar.fyi) ★★★★ 🔗 - set external monitors brightness (hardware or software) (Paid: €20)
 - [MacUpdater](https://www.corecode.io/macupdater) ★★★★ 🔗 - Keep all applications up to date (Paid: $15).
-- [Marta](https://marta.sh) ★★★ 🔗 - 2-panel file browser with command palette
-- [OpenIn](https://loshadki.app/openin/) ★★★ 🔗 - Handle opening urls & files in different browsers (allows for rules or even javascripts) (Paid: $10)
 - [PasteBot](https://tapbots.com/pastebot/) ★★★★ 🔗 - best clipboard manager (Paid: $13)
 - [PopClip](https://pilotmoon.com/popclip/) ★★★★ 🔗 - popover on selected text (like on iOS but better) (Paid: $13)
 - [ScreenFocus](https://www.apptorium.com/screenfocus) ★★★★ 🔗 - dim other monitors when not needed (Paid: $8)
