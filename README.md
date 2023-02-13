@@ -2,7 +2,7 @@
 
 A curated list of MacOS apps.
 
-# Assumptions
+## Assumptions
 - All of the apps mentioned here are free, unless explicitly stated.
 - Prices are for Ireland (usually include 23% VAT), which differs for other countries.
 - Some prices are given in different currencies, as they did not provide local pricing.
@@ -96,8 +96,9 @@ A curated list of MacOS apps.
 - [Craft](notes/craft.md) ★★★★ - note taking and organizing app (Subscription: $60/year, with a limited free option).
 - [GoodNotes](notes/goodnotes.md) ★ - note taking (Paid: $9).
 - [Drafts](notes/drafts.md) ★★ - note taking (Subscription: €21/year).
-- [FirstDraftPro](notes/firstdraftpro.md) - writing app (Subscription: $84/year).
+- [FirstDraftPro](notes/firstdraftpro.md) ★★★ - writing app (Subscription: $84/year).
 - [Notebooks](notes/notebooks.md) ★ - note taking (Paid: €48).
+- [Mela](https://mela.recipes) ★★★★★ 🔗 - simple, elegant and modern recipe manager (Paid: $10 mac, $5 ios).
 - [Mellel](notes/mellel.md) ★ - word processor (Paid: €50).
 - [Supernotes](notes/supernotes.md) ★★ - note taking (Paid: €82).
 - [Ulysses](notes/ulysses.md) ★★★★★ - writing app (Subscription: $50/year).
