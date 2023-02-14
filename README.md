@@ -18,6 +18,8 @@ This is more for me than anyone else, and is not meant as a detractor or critiqu
 - ★ - Absolutely dreadful app. I wish I hadn't seen it.
 
 
+Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
+
 <br>
 
 
