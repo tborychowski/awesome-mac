@@ -111,6 +111,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Notebooks](notes/notebooks.md) ★ - note taking (Paid: €48).
 - [Mela](https://mela.recipes) ★★★★★ 🔗 - simple, elegant and modern recipe manager (Paid: $10 mac, $5 ios).
 - [Mellel](notes/mellel.md) ★ - word processor (Paid: €50).
+- [Notion](https://www.notion.so) ★★★★ 🔗 - fully featured knowledge management solution. Has a generous free tier, otherwise (Subscription: $96/y).
 - [Supernotes](notes/supernotes.md) ★★ - note taking (Paid: €82).
 - [Ulysses](notes/ulysses.md) ★★★★★ - writing app (Subscription: $50/year).
 - [UpNote](https://getupnote.com) ★★★★ 🔗 - very feature rich note taking app. Has it all: folders, tags, tables. (Subscription: $1/m or Lifetime: $30)
@@ -142,6 +143,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [OwlOCR](https://owlocr.com/) ★★★★ 🔗 - OCR anything (Core version is free, Pro costs $8.99).
 - [Parcel](https://parcelapp.net) ★★★★ 🔗 - Tracks deliveries and can automatically fetch amazon orders! (Subscription ~€3.5/yr)
 - [PDFgear](https://www.pdfgear.com/) ★★★ 🔗 - although with a decade old UI, it's a decent app for pdf annotation, and can make filling non-interactive forms a breeze. And it's free!
+- [Raycast](https://www.raycast.com) ★★★★ 🔗 - spotlight alternative. Has lots of unrelated features out-of-the-box (window management, notes?). It's free for personal use.
 - [Shiori](https://aki-null.net/shiori/) ★★★ 🔗 - pinboard client for mac (like Spotlight for pinboard).
 
 
