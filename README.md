@@ -29,6 +29,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Downie](https://software.charliemonroe.net/downie/) ★★★★ 🔗 - Best youtube downloader. Comes with browser extensions. (Paid €19)
 - [HandBrake](https://handbrake.fr/) ★★★ 🔗 - Converts videos from nearly any format to a selection of modern, widely supported codecs.
 - [IINA](https://iina.io/) ★★★★ 🔗 - The ultimate video player for mac.
+- [Infuse](https://firecore.com/infuse) ★★★★ 🔗 - a nice mmedia player from a variety of sources (local, network, plex). (Subscription: $10/y or Lifetime: $95)
 - [MakeMKV](http://www.makemkv.com/) ★★★ 🔗 - Converts videos to mkv.
 - [Meta](https://www.nightbirdsevolve.com/meta/) ★★★★ 🔗 - pretty looking mp3 tag editor. (Paid: $20)
 - [Permute](https://software.charliemonroe.net/permute/) ★★★★★ 🔗 - Best video/audio/image converter (Paid: $15)
@@ -73,6 +74,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 # Development
 - [Aurora](dev/aurora.md) ★ - opensource IDE built by the community, for the community.
 - [CotEditor](https://coteditor.com/) ★★★ 🔗 - similar to Notepad++ for Windows.
+- [CodeEdit](https://www.codeedit.app) ★ 🔗 - opensource IDE, early alpha version, which shows. Very few things work and froze on a larger repo. Probably more targeted towards desktop/mobile rather than web devs.
 - [Dash](https://kapeli.com/dash) ★★★★ 🔗 - instant offline access to 200+ API documentation sets (you can even backup stack-overflow!) (Paid: €33).
 - [Forklift](https://binarynights.com/) ★★★★ 🔗 - 2 panel file browser (Paid: $29.95)
 - [Insomnia Core](https://insomnia.rest/download/#mac) ★★★ 🔗 - REST API tester (doesn't require an account and looks great). Did I mention that electron apps are usually not that slow? Well... except this one. Insomnia is extremely slow to start. Although, once it starts up, it works great.
@@ -111,6 +113,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Mellel](notes/mellel.md) ★ - word processor (Paid: €50).
 - [Supernotes](notes/supernotes.md) ★★ - note taking (Paid: €82).
 - [Ulysses](notes/ulysses.md) ★★★★★ - writing app (Subscription: $50/year).
+- [UpNote](https://getupnote.com) ★★★★ 🔗 - very feature rich note taking app. Has it all: folders, tags, tables. (Subscription: $1/m or Lifetime: $30)
 - [Workflowy](notes/workflowy.md) ★ - probably an outlining app (Subscription: $50/year).
 
 
@@ -138,6 +141,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ★★★★ 🔗 - Finder toolbar and menubar app for MacOS to open the current directory in Terminal, iTerm, VSCode and others.
 - [OwlOCR](https://owlocr.com/) ★★★★ 🔗 - OCR anything (Core version is free, Pro costs $8.99).
 - [Parcel](https://parcelapp.net) ★★★★ 🔗 - Tracks deliveries and can automatically fetch amazon orders! (Subscription ~€3.5/yr)
+- [PDFgear](https://www.pdfgear.com/) ★★★ 🔗 - although with a decade old UI, it's a decent app for pdf annotation, and can make filling non-interactive forms a breeze. And it's free!
 - [Shiori](https://aki-null.net/shiori/) ★★★ 🔗 - pinboard client for mac (like Spotlight for pinboard).
 
 
@@ -146,6 +150,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [1password](https://1password.com) ★★★★★ 🔗 - The ultimate password manager for apple ecosystem! (Subscription ~€36/yr)
 - [Adguard](https://adguard.com/en/welcome.html) ★★★★ 🔗 ($65) - System-wide ad-blocker. It's expensive but occasionally gets discounted (even down to $14).
 - [Bitwarden](https://bitwarden.com/) ★★★ 🔗 - Self-hostable, open source password manager with free apps for mobile & desktop.
+- [Enpass](https://www.enpass.io) ★★★★ 🔗 - a nice password manager with 2e2 encryption and custom storage (dropbox, icloud, google drive, etc). (Subscription: €22/y or lifetime: €93)
 
 
 
