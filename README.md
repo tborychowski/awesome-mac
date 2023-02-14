@@ -9,7 +9,8 @@ A curated list of MacOS apps.
 - Some apps have been tested and very subjectively assessed by me - these will link to pages in this repo.
 - Other apps - not tested & described - are marked as 🔗 (external links).
 
-## A very subjective star rating more less means:
+## A very subjective star rating
+This is more for me than anyone else, and is not meant as a detractor or critique of an app, but rather that I (for whatever reason) like it more or less:
 - ★★★★★ - An exceptional app. Get it at once and cherish it.
 - ★★★★ - A very good app. top of the class.
 - ★★★ - Decent app. Does the job.
@@ -60,7 +61,7 @@ A curated list of MacOS apps.
 - [ImageOptim](https://imageoptim.com/mac) ★★★ 🔗 - Best image compressor
 - [Image2icon](https://img2icnsapp.com/) ★★★ 🔗 - Easy, drag&drop icon creation (Free/Paid: $9.99).
 - [PixelSnap2](https://getpixelsnap.com) ★★★★★ 🔗 - measure stuff on screen, draw guides, etc. ($40)
-- [Sketch](http://sketch.com) ★★★★★ 🔗 - a design tool with great UX (Paid: $99 per device, or Subscription $99/yr)
+- [Sketch](http://sketch.com) ★★★★★ 🔗 - a design tool with great UX (Subscription: $99/yr)
 - [xScope](https://xscopeapp.com) ★★★★ 🔗 - does measuring, color picking & other designy things (Paid: $50)
 - [Webfont](https://webfontapp.com) ★★★ 🔗 - turn svgs to iconfonts. Limited free version (Subscription: $10/y)
 
