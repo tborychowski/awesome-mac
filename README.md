@@ -171,6 +171,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # System admin & other tools
+- [ActiveDock2](https://noteifyapp.com/activedock/) ★★★ 🔗 - Replaces MacOS with a different dock. Doesn't look that well, functions worse, and cannot even hide the native dock, so... there's really no point in using this app (unless as a second dock on a different edge maybe?). (Paid: €24.10/y or Lifetime: €57.85)
 - [Amphetemine](https://apps.apple.com/app/amphetamine/id937984704?mt=12) ★★★ 🔗 - Prevent mac from going to sleep.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) ★★★★ 🔗 - Cleans-up after you uninstall another app.
 - [Bartender](https://www.macbartender.com) ★★★★ 🔗 - Hide icons in menubar (Paid: $15 + local taxes).
