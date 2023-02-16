@@ -207,28 +207,29 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 # Window managers and switchers
 
-| App                                                           | Description                                                                                                             | Rating | Price  |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| [AltTab](https://alt-tab-macos.netlify.app) 🔗                 | turn app switcher into window switcher with previews                                                                    | ★★     |     \- |
-| [Contexts](https://contexts.co) 🔗                             | cmd+tab replacement that shows windows not apps. very flexible and functional                                           | ★★★★   |    $10 |
-| [DisplayMaid](https://funk-isoft.com/display-maid.html) 🔗     | Stay app alternative (keeps app windows where they're set)                                                              | ★★★    |  $7.40 |
-| [Divvy](https://mizage.com/divvy/) 🔗                          | odd UX, but not the worst app                                                                                           | ★★     |    $14 |
-| [Grid](https://macgrid.app/) 🔗                                | has gestures but only default list of positions. similar to swish                                                       | ★★★    |  €3.77 |
-| [Homerow](https://www.homerow.app) 🔗                          | navigate mac UI with keyboard                                                                                           | ★★     |  $40/y |
-| [Lasso](https://thelasso.app) 🔗                               | Another window manager for mac. Nice idea but interaction is a bit cumbersome and takes too long just to move a window. | ★★     |    €10 |
-| [Magnet](https://magnet.crowdcafe.com/) 🔗                     | poor feature set.                                                                                                       | ★★     |     $8 |
-| [Moom](https://manytricks.com/moom/) 🔗                        | one of the best. custom grid sizes & lots of useful options                                                             | ★★★★   |    $10 |
-| [Mosaic](https://www.lightpillar.com/mosaic.html) 🔗           | good, but too complex. can show a bar with preset layouts, dragging windows on them will reposition                     | ★★★    | £10-25 |
-| [rcmd](https://lowtechguys.com/rcmd/) 🔗                       | press *right cmd + letter* to switch to a specific app                                                                  | ★★     |     €7 |
-| [Rectangle](https://rectangleapp.com/) 🔗                      | quite good, but only default positions.                                                                                 | ★★     |     \- |
-| [RectanglePro](https://rectangleapp.com/pro) 🔗                | very good, lots of options and customizations. full control over positions & sizes.                                     | ★★★★   |    $10 |
-| [Stay](https://cordlessdog.com/stay/) 🔗                       | ensures that your windows are where you want them, even as you connect and disconnect displays                          | ★★★    | $12.90 |
-| [SuperTab](http://www.supertab.me/SuperTab.html) 🔗            | cmd+tab replacer with more stuff                                                                                        | ★      |    $10 |
-| [Swish](https://highlyopinionated.co/swish/) 🔗                | brilliant gestures to throw windows left & right. Nicely supplements other window managers                              | ★★★★   |    €12 |
-| [Yabai](https://github.com/koekeishiya/yabai) 🔗               | a different idea. extremely convoluted setup, aimed more towards devs                                                   | *★     |     \- |
-| [Window-collage](https://www.minicreo.com/window-collage/) 🔗  | cannot remove default positions!                                                                                        | ★★     |     \- |
-| [Witch](https://manytricks.com/witch/) 🔗                      | another app/window switcher                                                                                             | ★★     | €16.49 |
-| [Wooshy](https://wooshy.app) 🔗                                | navigate mac UI with keyboard                                                                                           | ★★     |   $4/m |
+| App                                                             | Description                                                                                                             | Rating | Price  |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| [AltTab](https://alt-tab-macos.netlify.app) 🔗                  | turn app switcher into window switcher with previews                                                                    | ★★★    |     \- |
+| [Contexts](https://contexts.co) 🔗                              | cmd+tab replacement that shows windows not apps. very flexible and functional                                           | ★★★★   |    $10 |
+| [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) 🔗 | cmd+tab replacement. shows apps only. good looking but limited in functionality.                                        | ★★     | €15.50 |
+| [DisplayMaid](https://funk-isoft.com/display-maid.html) 🔗      | Stay app alternative (keeps app windows where they're set)                                                              | ★★★    |  $7.40 |
+| [Divvy](https://mizage.com/divvy/) 🔗                           | odd UX, but not the worst app                                                                                           | ★★     |    $14 |
+| [Grid](https://macgrid.app/) 🔗                                 | has gestures but only default list of positions. similar to swish                                                       | ★★★    |  €3.77 |
+| [Homerow](https://www.homerow.app) 🔗                           | navigate mac UI with keyboard                                                                                           | ★★     |  $40/y |
+| [Lasso](https://thelasso.app) 🔗                                | Another window manager for mac. Nice idea but interaction is a bit cumbersome and takes too long just to move a window. | ★★     |    €10 |
+| [Magnet](https://magnet.crowdcafe.com/) 🔗                      | poor feature set.                                                                                                       | ★★     |     $8 |
+| [Moom](https://manytricks.com/moom/) 🔗                         | one of the best. custom grid sizes & lots of useful options                                                             | ★★★★   |    $10 |
+| [Mosaic](https://www.lightpillar.com/mosaic.html) 🔗            | good, but too complex. can show a bar with preset layouts, dragging windows on them will reposition                     | ★★★    | £10-25 |
+| [rcmd](https://lowtechguys.com/rcmd/) 🔗                        | press *right cmd + letter* to switch to a specific app                                                                  | ★★     |     €7 |
+| [Rectangle](https://rectangleapp.com/) 🔗                       | quite good, but only default positions.                                                                                 | ★★     |     \- |
+| [RectanglePro](https://rectangleapp.com/pro) 🔗                 | very good, lots of options and customizations. full control over positions & sizes.                                     | ★★★★   |    $10 |
+| [Stay](https://cordlessdog.com/stay/) 🔗                        | ensures that your windows are where you want them, even as you connect and disconnect displays                          | ★★★    | $12.90 |
+| [SuperTab](http://www.supertab.me/SuperTab.html) 🔗             | cmd+tab replacer with more stuff                                                                                        | ★      |    $10 |
+| [Swish](https://highlyopinionated.co/swish/) 🔗                 | brilliant gestures to throw windows left & right. Nicely supplements other window managers                              | ★★★★   |    €12 |
+| [Yabai](https://github.com/koekeishiya/yabai) 🔗                | a different idea. extremely convoluted setup, aimed more towards devs                                                   | *★     |     \- |
+| [Window-collage](https://www.minicreo.com/window-collage/) 🔗   | cannot remove default positions!                                                                                        | ★★     |     \- |
+| [Witch](https://manytricks.com/witch/) 🔗                       | another app/window switcher                                                                                             | ★★     | €16.49 |
+| [Wooshy](https://wooshy.app) 🔗                                 | navigate mac UI with keyboard                                                                                           | ★★     |   $4/m |
 
 
 
