@@ -92,6 +92,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # Email clients
+- [Airmail](email/airmail.md) ★★★★ - decent app, native and fast (Subscription: €35/y)
 - [Canary Mail](email/canary.md) ★★★★ - decent free option with paid pro feature ($20/y)
 - [Edison Mail](email/edison.md) ★★★
 - [MailMate](email/mailmate.md) ★★★ - (Paid: €60)
