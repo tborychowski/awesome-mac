@@ -67,6 +67,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [PixelSnap2](https://getpixelsnap.com) ★★★★★ 🔗 - measure stuff on screen, draw guides, etc. ($40)
 - [Sketch](http://sketch.com) ★★★★★ 🔗 - a design tool with great UX (Subscription: $99/yr)
 - [xScope](https://xscopeapp.com) ★★★★ 🔗 - does measuring, color picking & other designy things (Paid: $50)
+- [Vectornator](https://vectornator.io) ★★★ 🔗 - Vector graphics editor. Different but free!
 - [Webfont](https://webfontapp.com) ★★★ 🔗 - turn svgs to iconfonts. Limited free version (Subscription: $10/y)
 
 
@@ -100,6 +101,15 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [TempBox](https://github.com/devwaseem/TempBox) ★★★ - opensource temp email app.
 - [Spark](email/spark.md) ★★★★ - free with limited options and branded signature. Paid premium option (Subscription: €70/y).
 - [Swift Mail](email/swiftmail.md) ★★★ - free for now (it's in beta).
+
+
+
+# Mouse
+- [BetterTouchTool](https://folivora.ai) 🔗 - mouse gestures, keyboard shortcuts, etc. (Standard: €12.30, Lifetime: €27.33)
+- [LinearMouse](https://linearmouse.app/) ★★★ 🔗 - mouse and trackpad customizer (also works wil magic mouse).
+- [SteerMouse](https://plentycom.jp/en/steermouse/) ★★★ 🔗 - External mouse customizer (Paid: $20).
+- [Smooze](https://smooze.co) ★★★ 🔗 - External mouse customizer (speed, smoothness, etc) (Paid: $25).
+
 
 
 
