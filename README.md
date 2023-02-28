@@ -35,7 +35,9 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Permute](https://software.charliemonroe.net/permute/) ★★★★★ 🔗 - Best video/audio/image converter (Paid: $15)
 - [PDF Squeezer](https://www.witt-software.com/pdfsqueezer/) ★★★★ 🔗 - Best PDF compressor (Paid: $10/€11)
 - [Reflex](https://stuntsoftware.com/reflex/) ★★★ 🔗 - ensures that media keys hit the right app (stop YT taking over).
+- [Swinsian](https://swinsian.com/) ★★★ 🔗 - A great music player for local libraries (Paid: $25)
 - [Tagger](http://bilalh.github.io/projects/tagger/) ★★★ 🔗 - mp3 tags editor.
+- [Yomu](https://www.yomu-reader.com/) ★★★ 🔗 - An independent reader for book lovers (Paid: €7).
 
 
 
