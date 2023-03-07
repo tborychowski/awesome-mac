@@ -206,6 +206,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Shortcut Detective](https://www.irradiatedsoftware.com/labs/) ★★★★ 🔗 - detects which app receives a keyboard shortcut (hotkey)
 - [Transnomino](https://transnomino.bastiaanverreijt.com) ★★★★ 🔗 - the best file renamer tool for mac.
 - [WiFi Explorer Lite](https://apps.apple.com/us/app/wifi-explorer-lite/id1408727408?mt=12) ★★★★ 🔗 - excellent WiFi scanner/analyser (Paid: $2)
+- [xsearch](https://apps.apple.com/ie/app/xsearch-for-safari/id1579902068) ★★★ 🔗 - allows to set custom search providers in safari (Paid: €3.50).
 
 
 
