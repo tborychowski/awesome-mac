@@ -146,7 +146,6 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Alfred](https://www.alfredapp.com) ★★★★★ 🔗 - absolutely the best Spotlight replacement. Basic version is free, but only with the "Powerpack" it reaches its full potential (Powerpack cost: £29)
 - [aText](https://www.trankynam.com/atext/) ★★★ 🔗 - text expander (Paid: $4.99).
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) ★★ 🔗 - context automation (abandonware).
-- [Fantastical](https://flexibits.com/fantastical) ★★★★★ 🔗 - probably the best calendar app for mac (Subscription ~€44/yr)
 - [FiScript](https://github.com/Mortennn/FiScript) ★★★ 🔗 - add options to context menu.
 - [Gestimer](http://maddin.io/gestimer/) ★★★★ 🔗 - for quick reminders (Paid: $4)
 - [Homerow](https://www.homerow.app) ★★★ 🔗 - navigate everything on screen with the keyboard (free for now, later paid: ~$30-40)
@@ -210,7 +209,11 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 
-# Task managers
+# Calendars & Task managers
+- [Agenda](https://agenda.com) ★★★ 🔗 - neither a good note app, nor a good calendar (Paid: €42).
+- [Calendar 366 II](https://nspektor.com) ★★★ 🔗 - good looking but not as feature rich as fantastical (Paid: $15)
+- [Busycal](https://busymac.com/busycal/) ★★★ 🔗 - seems to be feature rich, almost in par with fantastical, but keeps crashing & freezing and doesn't work as well (Paid: $50)
+- [Fantastical](https://flexibits.com/fantastical) ★★★★★ 🔗 - probably the best calendar app for mac (Subscription €70/yr)
 - [Noteplan](task-managers/noteplan.md) ★★★ - (Subscription: €117/y).
 - [Sorted](task-managers/sorted.md) ★★★ - (Paid: Pro $25 mac + $15 ios).
 - [Things](task-managers/things.md) ★★★★★ - Best task manager ($50 for Mac + $10 for iPhone).
