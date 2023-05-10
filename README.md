@@ -25,6 +25,10 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 
+# AI
+- [IntelliBar](https://intellibar.app) ★★★★ 🔗 - A very good spotlight-like ChatGPT (requires OpenAI account and a personal token) app for mac (Free in beta, Can be purchased ATM with 40% discount at: $35.67).
+
+
 # Audio, Video & Documents
 - [Downie](https://software.charliemonroe.net/downie/) ★★★★ 🔗 - Best youtube downloader. Comes with browser extensions. (Paid €19)
 - [HandBrake](https://handbrake.fr/) ★★★ 🔗 - Converts videos from nearly any format to a selection of modern, widely supported codecs.
@@ -149,6 +153,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [FiScript](https://github.com/Mortennn/FiScript) ★★★ 🔗 - add options to context menu.
 - [Gestimer](http://maddin.io/gestimer/) ★★★★ 🔗 - for quick reminders (Paid: $4)
 - [Homerow](https://www.homerow.app) ★★★ 🔗 - navigate everything on screen with the keyboard (free for now, later paid: ~$30-40)
+- [JustFocus](https://getjustfocus.com/) ★★★★ 🔗 - A simple and free pomodoro app, that shows full-screen notifications.
 - [Klokki Slim](https://apps.apple.com/app/id1459795140) ★★★★ 🔗 - nice & simple 5time tracking app.
 - [OpenIn](https://loshadki.app/openin/) ★★★ 🔗 - Handle opening urls & files in different browsers (allows for rules or even javascripts) (Paid: $10)
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ★★★★ 🔗 - Finder toolbar and menubar app for MacOS to open the current directory in Terminal, iTerm, VSCode and others.
