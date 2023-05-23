@@ -111,6 +111,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # Mouse
+- [BetterMouse](https://better-mouse.com) 🔗 - External mouse customizer (speed, smoothness, etc). Haven't tried that, but looks great (Paid: $8).
 - [BetterTouchTool](https://folivora.ai) 🔗 - mouse gestures, keyboard shortcuts, etc. (Standard: €12.30, Lifetime: €27.33)
 - [LinearMouse](https://linearmouse.app/) ★★★ 🔗 - mouse and trackpad customizer (also works wil magic mouse).
 - [SteerMouse](https://plentycom.jp/en/steermouse/) ★★★ 🔗 - External mouse customizer (Paid: $20).
