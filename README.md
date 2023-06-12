@@ -9,6 +9,7 @@ A curated list of MacOS apps.
 - Some apps have been tested and very subjectively assessed by me - these will link to pages in this repo.
 - Other apps - not tested & described - are marked as 🔗 (external links).
 
+
 ## A very subjective star rating
 This is more for me than anyone else, and is not meant as a detractor or critique of an app, but rather that I (for whatever reason) like it more or less:
 - ★★★★★ - An exceptional app. Get it at once and cherish it.
@@ -26,7 +27,10 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # AI
-- [IntelliBar](https://intellibar.app) ★★★ 🔗 - A decent ChatGPT app (requires OpenAI account and a personal token) app for mac (Free in beta).
+- [Commander GPT](https://www.commandergpt.app) ★★★ 🔗 - A decent ChatGPT app app for mac. Requires OpenAI account and a personal token (Paid $5).
+- [IntelliBar](https://intellibar.app) ★★★ 🔗 - A decent ChatGPT app app for mac. Requires OpenAI account and a personal token (Free in beta).
+- [MacGPT](https://goodsnooze.gumroad.com/l/menugpt?layout=profile) ★★★ 🔗 - A decent ChatGPT app app for mac. Requires OpenAI account and a personal token (Pay what you want).
+
 
 
 # Audio, Video & Documents
