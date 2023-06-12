@@ -26,7 +26,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # AI
-- [IntelliBar](https://intellibar.app) ★★★★ 🔗 - A very good spotlight-like ChatGPT (requires OpenAI account and a personal token) app for mac (Free in beta, Can be purchased ATM with 40% discount at: $35.67).
+- [IntelliBar](https://intellibar.app) ★★★ 🔗 - A decent ChatGPT app (requires OpenAI account and a personal token) app for mac (Free in beta).
 
 
 # Audio, Video & Documents
@@ -153,6 +153,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) ★★ 🔗 - context automation (abandonware).
 - [FiScript](https://github.com/Mortennn/FiScript) ★★★ 🔗 - add options to context menu.
 - [Gestimer](http://maddin.io/gestimer/) ★★★★ 🔗 - for quick reminders (Paid: $4)
+- [Glide](https://apps.apple.com/us/app/glide-focus-pointer/id1593045116?mt=12) - Glide is a focus pointer which dims parts of your screen for better focus and reading experience (Paid: $7).
 - [Homerow](https://www.homerow.app) ★★★ 🔗 - navigate everything on screen with the keyboard (free for now, later paid: ~$30-40)
 - [JustFocus](https://getjustfocus.com/) ★★★★ 🔗 - A simple and free pomodoro app, that shows full-screen notifications.
 - [Klokki Slim](https://apps.apple.com/app/id1459795140) ★★★★ 🔗 - nice & simple 5time tracking app.
