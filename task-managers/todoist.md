@@ -1,4 +1,4 @@
-# [todoist](https://www.todoistapp.com) ★★★★
+# [todoist](https://todoist.com/) ★★★★
 
 
 - quite good, but overly complex
