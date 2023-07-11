@@ -28,6 +28,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 # AI
 - [Commander GPT](https://www.commandergpt.app) ★★★ 🔗 - A decent ChatGPT app app for mac. Requires OpenAI account and a personal token (Paid $5).
+- [Beam](https://getbeam.ai) ★★★★ 🔗 - A very good native ChatGPT app app for mac. Requires OpenAI account and a personal token (Paid $39 (50% off ATM)).
 - [IntelliBar](https://intellibar.app) ★★★ 🔗 - A decent ChatGPT app app for mac. Requires OpenAI account and a personal token (Free in beta).
 - [MacGPT](https://goodsnooze.gumroad.com/l/menugpt?layout=profile) ★★★ 🔗 - A decent ChatGPT app app for mac. Requires OpenAI account and a personal token (Pay what you want).
 - [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) ★★★★ 🔗 - A native macos wrapper around the OpenAI GPT window. Doesn't require a key (Pay what you want).
