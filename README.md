@@ -88,6 +88,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Aurora](dev/aurora.md) ★ - opensource IDE built by the community, for the community.
 - [CotEditor](https://coteditor.com/) ★★★ 🔗 - similar to Notepad++ for Windows.
 - [CodeEdit](https://www.codeedit.app) ★ 🔗 - opensource IDE, early alpha version, which shows. Very few things work and froze on a larger repo. Probably more targeted towards desktop/mobile rather than web devs.
+- [CommanderOne](https://ftp-mac.com) ★★★★ 🔗 - FTP client and dual-panel file manager (Limited free version and paid Pro: $30 for 1 mac).
 - [Dash](https://kapeli.com/dash) ★★★★ 🔗 - instant offline access to 200+ API documentation sets (you can even backup stack-overflow!) (Paid: €33).
 - [Forklift](https://binarynights.com/) ★★★★ 🔗 - 2 panel file browser (Paid: $29.95)
 - [Insomnia Core](https://insomnia.rest/download/#mac) ★★★ 🔗 - REST API tester (doesn't require an account and looks great). Did I mention that electron apps are usually not that slow? Well... except this one. Insomnia is extremely slow to start. Although, once it starts up, it works great.
@@ -100,6 +101,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [RegExp.app](https://loshadki.app/regexp/) ★★★ 🔗 - regex tester for JS, Python, Go, Swift & Rust
 - [Sequel Ace](https://sequel-ace.com/) ★★★ 🔗 - a nice MySQL/SQLite DB manager for mac.
 - [SQLiteStudio](https://sqlitestudio.pl/) ★★★ 🔗 - SQLite DB manager
+- [TablePlus](https://tableplus.com/) ★★★ 🔗 - DB manager for MySQL, PostgreSQL, SQLite, Redis, etc. (Limited free version and paid options from $90/1 Mac).
 - [VSCode](https://code.visualstudio.com/) ★★★★★ 🔗 - Code editor. Best in class.
 - [Warp](dev/warp.md) ★★ - The terminal for the 21st century. Free for now.
 
