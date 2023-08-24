@@ -31,7 +31,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Beam](https://getbeam.ai) ★★★★ 🔗 - A very good native ChatGPT app app for mac. Requires OpenAI account and a personal token (Paid $39 (50% off ATM)).
 - [IntelliBar](https://intellibar.app) ★★★ 🔗 - A decent ChatGPT app app for mac. Requires OpenAI account and a personal token (Free in beta).
 - [MacGPT](https://goodsnooze.gumroad.com/l/menugpt?layout=profile) ★★★ 🔗 - A decent ChatGPT app app for mac. Requires OpenAI account and a personal token (Pay what you want).
-- [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) ★★★★ 🔗 - A native macos wrapper around the OpenAI GPT window. Doesn't require a key (Pay what you want).
+- [QuickGPT](https://sindresorhus.gumroad.com/l/quickgpt) ★★★ 🔗 - A native macos wrapper around the OpenAI GPT window. Doesn't require a key (Pay what you want).
 
 
 
@@ -228,8 +228,9 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Calendar 366 II](https://nspektor.com) ★★★ 🔗 - good looking but not as feature rich as fantastical (Paid: $15)
 - [Busycal](https://busymac.com/busycal/) ★★★ 🔗 - seems to be feature rich, almost in par with fantastical, but keeps crashing & freezing and doesn't work as well (Paid: $50)
 - [Fantastical](https://flexibits.com/fantastical) ★★★★★ 🔗 - probably the best calendar app for mac (Subscription €70/yr)
-- [Noteplan](task-managers/noteplan.md) ★★★ - (Subscription: €117/y).
+- [Noteplan](task-managers/noteplan.md) ★★★ - Creates calendar events & tasks from markdown notes(Subscription: €117/y).
 - [Sorted](task-managers/sorted.md) ★★★ - (Paid: Pro $25 mac + $15 ios).
+- [Structured](https://structured.app) ★★★★ 🔗 - Quite a good daily planner. Shows a timeline of your day with a great UX. (Yearly: €10, Lifetime: €35).
 - [Things](task-managers/things.md) ★★★★★ - Best task manager ($50 for Mac + $10 for iPhone).
 - [Todoist](task-managers/todoist.md) ★★★★ - (Subscription: Pro €36-€48/y).
 
