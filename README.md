@@ -211,7 +211,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Lunar](https://lunar.fyi) ★★★★ 🔗 - set external monitors brightness (hardware or software) (Paid: €20)
 - [MacUpdater](https://www.corecode.io/macupdater) ★★★★ 🔗 - Keep all applications up to date (Paid: $15).
 - [PasteBot](https://tapbots.com/pastebot/) ★★★★ 🔗 - best clipboard manager (Paid: $13)
-- [PopClip](https://pilotmoon.com/popclip/) ★★★★ 🔗 - popover on selected text (like on iOS but better) (Paid: $13)
+- [PopClip](https://pilotmoon.com/popclip/) ★★★★ 🔗 - popover on selected text (like on iOS but better) (Paid: $19)
 - [ShortcutDetective](https://www.irradiatedsoftware.com/labs/) ★★★ 🔗 - detects which app receives a keyboard shortcut.
 - [ScreenFocus](https://www.apptorium.com/screenfocus) ★★★★ 🔗 - dim other monitors when not needed (Paid: $8)
 - [SDCardFormatter](https://www.sdcard.org/downloads/formatter/index.html) ★★★ 🔗
