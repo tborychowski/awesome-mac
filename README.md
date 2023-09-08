@@ -129,18 +129,19 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # Notes and writing
-- [Bear](notes/bear.md) ★★★★ - note taking (Subscription: $15/year).
-- [Craft](notes/craft.md) ★★★★ - note taking and organizing app (Subscription: $60/year, with a limited free option).
+- [Bear](notes/bear.md) ★★★ - note taking (Subscription: $30/year).
+- [Craft](notes/craft.md) ★★★★ - note taking and organizing app (Subscription: $60/year, with a decent free option).
+- [Evernote](http://evernote.com) ★★★★ 🔗 - simple note taking app that just works! Decent UX and ubiquitous support, and joy to work with (Subscription: $100/y).
 - [GoodNotes](notes/goodnotes.md) ★ - note taking (Paid: $9).
 - [Drafts](notes/drafts.md) ★★ - note taking (Subscription: €21/year).
 - [FirstDraftPro](notes/firstdraftpro.md) ★★★ - writing app (Subscription: $84/year).
 - [Notebooks](notes/notebooks.md) ★ - note taking (Paid: €48).
 - [Mela](https://mela.recipes) ★★★★★ 🔗 - simple, elegant and modern recipe manager (Paid: $10 mac, $5 ios).
 - [Mellel](notes/mellel.md) ★ - word processor (Paid: €50).
-- [Notion](https://www.notion.so) ★★★★ 🔗 - fully featured knowledge management solution. Has a generous free tier, otherwise (Subscription: $96/y).
+- [Notion](https://www.notion.so) ★★★★ 🔗 - feature-rich information management solution. Quite powerful, however, it does add a lot of "friction" to every simple thing (generous free tier, or subscription: $96/y).
 - [Supernotes](notes/supernotes.md) ★★ - note taking (Paid: €82).
-- [Ulysses](notes/ulysses.md) ★★★★★ - writing app (Subscription: $50/year).
-- [UpNote](https://getupnote.com) ★★★★ 🔗 - very feature rich note taking app. Has it all: folders, tags, tables. (Subscription: $1/m or Lifetime: $30)
+- [Ulysses](notes/ulysses.md) ★★★★★ - amazing writing app, with grammar check (Subscription: $50/year).
+- [UpNote](https://getupnote.com) ★★★ 🔗 - feature rich note taking app. Has it all: folders, tags, and tables. Not sure why, but somehow the UX is not quite there for me (Subscription: $1/m or Lifetime: $30)
 - [Workflowy](notes/workflowy.md) ★ - probably an outlining app (Subscription: $50/year).
 
 
