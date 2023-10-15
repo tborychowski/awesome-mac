@@ -228,8 +228,10 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 # Calendars & Task managers
 - [Agenda](https://agenda.com) ★★★ 🔗 - neither a good note app, nor a good calendar (Paid: €42).
-- [Calendar 366 II](https://nspektor.com) ★★★ 🔗 - good looking but not as feature rich as fantastical (Paid: $15)
 - [Busycal](https://busymac.com/busycal/) ★★★ 🔗 - seems to be feature rich, almost in par with fantastical, but keeps crashing & freezing and doesn't work as well (Paid: $50)
+- [Calendar 366 II](https://nspektor.com) ★★★ 🔗 - good looking but not as feature rich as fantastical (Paid: $15)
+- [DayOne](https://dayoneapp.com) ★★★★ 🔗 - Excellent diary/journal app (Basic free, or premium subscription: $36/yr)
+- [Diarly](https://diarly.app) ★★★★ 🔗 - Excellent diary/journal app (Basic free, or premium subscription: €23/yr)
 - [Fantastical](https://flexibits.com/fantastical) ★★★★★ 🔗 - probably the best calendar app for mac (Subscription €70/yr)
 - [Noteplan](task-managers/noteplan.md) ★★★ - Creates calendar events & tasks from markdown notes(Subscription: €117/y).
 - [Sorted](task-managers/sorted.md) ★★★ - (Paid: Pro $25 mac + $15 ios).
