@@ -76,6 +76,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [iConvert Icons](https://iconverticons.com) ★★★ 🔗 - A darag&drop image converter (Paid: $10)
 - [ImageOptim](https://imageoptim.com/mac) ★★★ 🔗 - Best image compressor
 - [Image2icon](https://img2icnsapp.com/) ★★★ 🔗 - Easy, drag&drop icon creation (Free/Paid: $9.99).
+- [Mizframa](https://apps.apple.com/ie/app/mizframa-screenshot-mockups/id6444951894) 🔗 - Beautiful mockup generator (puts screenshots in devices) (Lifetime €23).
 - [PixelSnap2](https://getpixelsnap.com) ★★★★★ 🔗 - measure stuff on screen, draw guides, etc. ($40)
 - [Sketch](http://sketch.com) ★★★★★ 🔗 - a design tool with great UX (Subscription: $99/yr)
 - [xScope](https://xscopeapp.com) ★★★★ 🔗 - does measuring, color picking & other designy things (Paid: $50)
