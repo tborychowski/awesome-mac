@@ -1,11 +1,13 @@
-# [Canary Mail](https://canarymail.io) ★★★★
+# [Canary Mail](https://canarymail.io) ★★
 
 
-- quite good looking
-- nice dark theme (pretty legible & clear)
-- decent threaded view
+- ok dark theme (legible & clear)
+- threaded view
 - configurable
 - snooze does not integrate with FM
+- crappy support
+- doesn't work reliably, sometimes freezes, sometimes doesn't show new mail
+- notifications are slow
 
 
 

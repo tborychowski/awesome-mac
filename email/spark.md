@@ -4,8 +4,11 @@
 - Nice UI, good UX, excellent accessibility
 - Pretty dark theme
 - Command palette
-- Apart from that - utter bullshit! Colors over functionality, limited settings, limited features (can’t pin the sidebar unless I resize the window), long animations.
-- No menubar icon, no work in background
+- nice integrations (e.g. Things, Evernote and many others).
+- limited settings
+- weird & connfusing sidebar behaviour
+- not native and slow
+- no menubar icon, no work in background
 
 
 <br>

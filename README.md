@@ -52,8 +52,8 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # Bookmarks & collection managers
-- [Anybox](bookmarks/anybox.md) ★★ - free option, (Paid Pro Subscription: $12/y, Lifetime: $40)
-- [GoodLinks](bookmarks/goodlinks.md) ★★★★ - quite good for the purpose (Paid: $5)
+- [Anybox](bookmarks/anybox.md) ★★★★ - Great bookmark manager. (Free option, with paid pro sub: $15/y, or Lifetime: $40)
+- [GoodLinks](bookmarks/goodlinks.md) ★★★ - Quite good for the purpose (Paid: $5)
 - [Pile](bookmarks/pile.md) ★ - free option, (Full version: €48)
 - [Telik](https://github.com/agentcooper/Telik) ★★★ 🔗 - track YT channels for new videos.
 
@@ -108,14 +108,14 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # Email clients
-- [Airmail](email/airmail.md) ★★★★ - decent app, native and fast (Subscription: €35/y)
-- [Canary Mail](email/canary.md) ★★★★ - decent free option with paid pro feature ($20/y)
+- [Airmail](email/airmail.md) ★★★ - decent app, native and fast (Subscription: €35/y)
+- [Canary Mail](email/canary.md) ★★ - crappy email client with some free option and paid pro feature ($20/y)
 - [Edison Mail](email/edison.md) ★★★
 - [MailMate](email/mailmate.md) ★★★ - (Paid: €60)
 - [FMail](https://fmail-app.fr/legacy/) ★★★★ 🔗 - unofficial desktop app for FastMail. Now deprecated in favour of the new version, which is not as good (does not show in menubar, only in the dock).
 - [TempBox](https://github.com/devwaseem/TempBox) ★★★ - opensource temp email app.
 - [Spark](email/spark.md) ★★★★ - free with limited options and branded signature. Paid premium option (Subscription: €70/y).
-- [Swift Mail](email/swiftmail.md) ★★★ - free for now (it's in beta).
+- [Swift Mail](email/swiftmail.md) ★★★ - The only email client that uses FastMail's JMAP. Free for now (it's in beta) but no updates since 2022, so it's probably dead.
 
 
 
@@ -132,13 +132,13 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 # Notes and writing
 - [Bear](notes/bear.md) ★★★ - note taking (Subscription: $30/year).
 - [Craft](notes/craft.md) ★★★★ - note taking and organizing app (Subscription: $60/year, with a decent free option).
-- [Evernote](http://evernote.com) ★★★★ 🔗 - simple note taking app that just works! Decent UX and ubiquitous support, and joy to work with (Subscription: $100/y).
-- [GoodNotes](notes/goodnotes.md) ★ - note taking (Paid: $9).
 - [Drafts](notes/drafts.md) ★★ - note taking (Subscription: €21/year).
+- [Evernote](http://evernote.com) ★★★★★ 🔗 - simple note taking app that just works! Decent UX and ubiquitous support, and joy to work with (Subscription: $100/y).
 - [FirstDraftPro](notes/firstdraftpro.md) ★★★ - writing app (Subscription: $84/year).
-- [Notebooks](notes/notebooks.md) ★ - note taking (Paid: €48).
+- [GoodNotes](notes/goodnotes.md) ★ - note taking (Paid: $9).
 - [Mela](https://mela.recipes) ★★★★★ 🔗 - simple, elegant and modern recipe manager (Paid: $10 mac, $5 ios).
 - [Mellel](notes/mellel.md) ★ - word processor (Paid: €50).
+- [Notebooks](notes/notebooks.md) ★ - note taking (Paid: €48).
 - [Notion](https://www.notion.so) ★★★★ 🔗 - feature-rich information management solution. Quite powerful, however, it does add a lot of "friction" to every simple thing (generous free tier, or subscription: $96/y).
 - [Supernotes](notes/supernotes.md) ★★ - note taking (Paid: €82).
 - [Ulysses](notes/ulysses.md) ★★★★★ - amazing writing app, with grammar check (Subscription: $50/year).
@@ -214,13 +214,13 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [MacUpdater](https://www.corecode.io/macupdater) ★★★★ 🔗 - Keep all applications up to date (Paid: $15).
 - [PasteBot](https://tapbots.com/pastebot/) ★★★★ 🔗 - best clipboard manager (Paid: $13)
 - [PopClip](https://pilotmoon.com/popclip/) ★★★★ 🔗 - popover on selected text (like on iOS but better) (Paid: $19)
-- [ShortcutDetective](https://www.irradiatedsoftware.com/labs/) ★★★ 🔗 - detects which app receives a keyboard shortcut.
 - [ScreenFocus](https://www.apptorium.com/screenfocus) ★★★★ 🔗 - dim other monitors when not needed (Paid: $8)
 - [SDCardFormatter](https://www.sdcard.org/downloads/formatter/index.html) ★★★ 🔗
+- [Shortcut Detective](https://www.irradiatedsoftware.com/labs/) ★★★★ 🔗 - detects which app receives a keyboard shortcut (hotkey)
+- [ShortcutDetective](https://www.irradiatedsoftware.com/labs/) ★★★ 🔗 - detects which app receives a keyboard shortcut.
 - [Sidebar.app](https://sidebarapp.net) ★★ 🔗 - replace dock with ugly windows-like taskbar (Paid: €20)
 - [Sloth](https://sveinbjorn.org/sloth) ★★★ 🔗 - displays all open files and sockets in use by all running processes.
 - [Soulver](https://soulver.app) (with [Alfred integration](https://soulver.app/integrations/)) ★★★★ 🔗 - to calculate anything (like numi but better) (Paid: ~$37)
-- [Shortcut Detective](https://www.irradiatedsoftware.com/labs/) ★★★★ 🔗 - detects which app receives a keyboard shortcut (hotkey)
 - [Transnomino](https://transnomino.bastiaanverreijt.com) ★★★★ 🔗 - the best file renamer tool for mac.
 - [WiFi Explorer Lite](https://apps.apple.com/us/app/wifi-explorer-lite/id1408727408?mt=12) ★★★★ 🔗 - excellent WiFi scanner/analyser (Paid: $2)
 - [xsearch](https://apps.apple.com/ie/app/xsearch-for-safari/id1579902068) ★★★ 🔗 - allows to set custom search providers in safari (Paid: €3.50).
@@ -231,9 +231,10 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Agenda](https://agenda.com) ★★★ 🔗 - neither a good note app, nor a good calendar (Paid: €42).
 - [Busycal](https://busymac.com/busycal/) ★★★ 🔗 - seems to be feature rich, almost in par with fantastical, but keeps crashing & freezing and doesn't work as well (Paid: $50)
 - [Calendar 366 II](https://nspektor.com) ★★★ 🔗 - good looking but not as feature rich as fantastical (Paid: $15)
-- [DayOne](https://dayoneapp.com) ★★★★ 🔗 - Excellent diary/journal app (Basic free, or premium subscription: $36/yr)
+- [DayOne](https://dayoneapp.com) ★★★ 🔗 - Good diary/journal app (Basic free, or premium subscription: $36/yr)
 - [Diarly](https://diarly.app) ★★★★ 🔗 - Excellent diary/journal app (Basic free, or premium subscription: €23/yr)
 - [Fantastical](https://flexibits.com/fantastical) ★★★★★ 🔗 - probably the best calendar app for mac (Subscription €70/yr)
+- [Linear](https://linear.app) ★★★★ 🔗 - a beautiful project manager for teams and solo devs (generous free tier, Standard is $8/month). Can be 2-way synced with GitHub issues using [synclinear](https://synclinear.com) app.
 - [Noteplan](task-managers/noteplan.md) ★★★ - Creates calendar events & tasks from markdown notes(Subscription: €117/y).
 - [Sorted](task-managers/sorted.md) ★★★ - (Paid: Pro $25 mac + $15 ios).
 - [Structured](https://structured.app) ★★★★ 🔗 - Quite a good daily planner. Shows a timeline of your day with a great UX. (Yearly: €10, Lifetime: €35).
@@ -303,6 +304,8 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [fav-tool](https://github.com/shy-neon/favtool) ★★ 🔗 - not really an extension but a useful tool. Allows to set custom favicons for bookmarks on Safari's new tab page.
 - [Keys](https://github.com/Appccessibility-Shox/Keys) ★★★ 🔗 - lets users keyboard-navigate the web by dynamically generating and rendering shortcut keys in the least ugly/confusing way possible.
 - [UserScripts](https://github.com/quoid/userscripts) ★★★ 🔗 - allows to inject custom script to sites (like temper monkey, et al.), e.g. to get [Youtube dislike button](https://www.returnyoutubedislike.com/) back.
+- [SponsorBlock](https://sponsor.ajay.app) ★★★ 🔗  - skips sponsored segments in YouTube videos (Paid for Safari: $4).
+- [UnTrap](https://untrap.app) ★★★ 🔗 - Customize youtube (remove sidebar, toolbar sections, etc.) (Paid for Safari: $2).
 
 
 
