@@ -92,7 +92,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [CommanderOne](https://ftp-mac.com) ★★★★ 🔗 - FTP client and dual-panel file manager (Limited free version and paid Pro: $30 for 1 mac).
 - [Dash](https://kapeli.com/dash) ★★★★ 🔗 - instant offline access to 200+ API documentation sets (you can even backup stack-overflow!) (Paid: €33).
 - [Forklift](https://binarynights.com/) ★★★★ 🔗 - 2 panel file browser (Paid: $29.95)
-- [Insomnia Core](https://insomnia.rest/download/#mac) ★★★ 🔗 - REST API tester (doesn't require an account and looks great). Did I mention that electron apps are usually not that slow? Well... except this one. Insomnia is extremely slow to start. Although, once it starts up, it works great.
+- [Insomnia Core](https://insomnia.rest/download/#mac) ★★★ 🔗 - REST API tester. Extremely slow. Used to be good, now unusable.
 - [iTerm2](https://iterm2.com/) ★★★★★ 🔗 - Customizable terminal emulator.
 - [Kaleidoscope](https://kaleidoscope.app) ★★★ 🔗 - file & folder diff viewer, very easy to use & setup and very expensive (€150)
 - [Marta](https://marta.sh) ★★★ 🔗 - 2-panel file browser with command palette
@@ -235,6 +235,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Diarly](https://diarly.app) ★★★★ 🔗 - Excellent diary/journal app (Basic free, or premium subscription: €23/yr)
 - [Fantastical](https://flexibits.com/fantastical) ★★★★★ 🔗 - probably the best calendar app for mac (Subscription €70/yr)
 - [Linear](https://linear.app) ★★★★ 🔗 - a beautiful project manager for teams and solo devs (generous free tier, Standard is $8/month). Can be 2-way synced with GitHub issues using [synclinear](https://synclinear.com) app.
+- [Morgen](https://www.morgen.so) ★★★ 🔗 - Nice UI with a command-palette. Integrates with tasks and allows to move them to calendar. (Very limited free option. Sub: $9/m).
 - [Noteplan](task-managers/noteplan.md) ★★★ - Creates calendar events & tasks from markdown notes(Subscription: €117/y).
 - [Sorted](task-managers/sorted.md) ★★★ - (Paid: Pro $25 mac + $15 ios).
 - [Structured](https://structured.app) ★★★★ 🔗 - Quite a good daily planner. Shows a timeline of your day with a great UX. (Yearly: €10, Lifetime: €35).
@@ -244,34 +245,40 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 
-# Window managers and switchers
+# Window managers
+| App                                                           | Description                                                                                                       | Rating | Price  |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| [Bettersnaptool](https://www.folivora.ai/bettersnaptool) 🔗   | allows to create custom snap areas                                                                                | ★★★★   |     $3 |
+| [DisplayMaid](https://funk-isoft.com/display-maid.html) 🔗    | Stay app alternative (keeps app windows where they're set)                                                        | ★★★    |  $7.40 |
+| [Divvy](https://mizage.com/divvy/) 🔗                         | odd UX, but not the worst app                                                                                     | ★★     |    $14 |
+| [Grid](https://macgrid.app/) 🔗                               | has gestures but only default list of positions. similar to swish                                                 | ★★★    |  €3.77 |
+| [Lasso](https://thelasso.app) 🔗                              | Another window manager for mac. Nice idea but interaction is cumbersome and takes too long just to move a window. | ★★     |    €10 |
+| [LayoutSwitcher](https://layoutswitcher.carrd.co) 🔗          | Beta. Buggy & slow. Keyboard centric, and a cool idea. Just needs some love (and customization options).          | ★★     |    €1+ |
+| [Magnet](https://magnet.crowdcafe.com/) 🔗                    | poor feature set.                                                                                                 | ★★     |     $8 |
+| [Moom](https://manytricks.com/moom/) 🔗                       | one of the best. custom grid sizes & lots of useful options                                                       | ★★★★   |    $10 |
+| [Mosaic](https://www.lightpillar.com/mosaic.html) 🔗          | good, but too complex. can show a bar with preset layouts, dragging windows on them will reposition               | ★★★    | £10-25 |
+| [Rectangle](https://rectangleapp.com/) 🔗                     | quite good, but only default positions.                                                                           | ★★     |     \- |
+| [RectanglePro](https://rectangleapp.com/pro) 🔗               | very good, lots of options and customizations. full control over positions & sizes.                               | ★★★★   |    $10 |
+| [Stay](https://cordlessdog.com/stay/) 🔗                      | ensures that your windows are where you want them, even as you connect and disconnect displays                    | ★★★    | $12.90 |
+| [Swish](https://highlyopinionated.co/swish/) 🔗               | brilliant gestures to throw windows left & right. Nicely supplements other window managers                        | ★★★★   |    €12 |
+| [Yabai](https://github.com/koekeishiya/yabai) 🔗              | a different idea. extremely convoluted setup, aimed more towards devs                                             | *★     |     \- |
+| [Window-collage](https://www.minicreo.com/window-collage/) 🔗 | cannot remove default positions!                                                                                  | ★★     |     \- |
+| [Wins](https://wins.cool) 🔗                                  | arrange window with a panel                                                                                       | ★★     |    $14 |
 
-| App                                                             | Description                                                                                                             | Rating | Price  |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| [AltTab](https://alt-tab-macos.netlify.app) 🔗                  | turn app switcher into window switcher with previews                                                                    | ★★★    |     \- |
-| [Contexts](https://contexts.co) 🔗                              | cmd+tab replacement that shows windows not apps. very flexible and functional                                           | ★★★★   |    $10 |
-| [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) 🔗 | cmd+tab replacement. shows apps only. good looking but limited in functionality.                                        | ★★     | €15.50 |
-| [DisplayMaid](https://funk-isoft.com/display-maid.html) 🔗      | Stay app alternative (keeps app windows where they're set)                                                              | ★★★    |  $7.40 |
-| [DocFlipper](https://docflipper.com) 🔗                         | Cmd+Tab switcher with bookmarks. Looks nice. Bookmarks is a cool idea, but does not switch between app windows.         | ★★★    |    $20 |
-| [Divvy](https://mizage.com/divvy/) 🔗                           | odd UX, but not the worst app                                                                                           | ★★     |    $14 |
-| [Grid](https://macgrid.app/) 🔗                                 | has gestures but only default list of positions. similar to swish                                                       | ★★★    |  €3.77 |
-| [Homerow](https://www.homerow.app) 🔗                           | navigate mac UI with keyboard                                                                                           | ★★     |  $40/y |
-| [Lasso](https://thelasso.app) 🔗                                | Another window manager for mac. Nice idea but interaction is a bit cumbersome and takes too long just to move a window. | ★★     |    €10 |
-| [LayoutSwitcher](https://layoutswitcher.carrd.co) 🔗            | Beta. Buggy & slow. Keyboard centric, and a cool idea. Just needs some love (and customization options).                | ★★     |    €1+ |
-| [Magnet](https://magnet.crowdcafe.com/) 🔗                      | poor feature set.                                                                                                       | ★★     |     $8 |
-| [Moom](https://manytricks.com/moom/) 🔗                         | one of the best. custom grid sizes & lots of useful options                                                             | ★★★★   |    $10 |
-| [Mosaic](https://www.lightpillar.com/mosaic.html) 🔗            | good, but too complex. can show a bar with preset layouts, dragging windows on them will reposition                     | ★★★    | £10-25 |
-| [rcmd](https://lowtechguys.com/rcmd/) 🔗                        | press *right cmd + letter* to switch to a specific app                                                                  | ★★     |     €7 |
-| [Rectangle](https://rectangleapp.com/) 🔗                       | quite good, but only default positions.                                                                                 | ★★     |     \- |
-| [RectanglePro](https://rectangleapp.com/pro) 🔗                 | very good, lots of options and customizations. full control over positions & sizes.                                     | ★★★★   |    $10 |
-| [Stay](https://cordlessdog.com/stay/) 🔗                        | ensures that your windows are where you want them, even as you connect and disconnect displays                          | ★★★    | $12.90 |
-| [SuperTab](http://www.supertab.me/SuperTab.html) 🔗             | cmd+tab replacer with more stuff                                                                                        | ★      |    $10 |
-| [Swish](https://highlyopinionated.co/swish/) 🔗                 | brilliant gestures to throw windows left & right. Nicely supplements other window managers                              | ★★★★   |    €12 |
-| [Yabai](https://github.com/koekeishiya/yabai) 🔗                | a different idea. extremely convoluted setup, aimed more towards devs                                                   | *★     |     \- |
-| [Window-collage](https://www.minicreo.com/window-collage/) 🔗   | cannot remove default positions!                                                                                        | ★★     |     \- |
-| [Witch](https://manytricks.com/witch/) 🔗                       | another app/window switcher                                                                                             | ★★     | €16.49 |
-| [Wooshy](https://wooshy.app) 🔗                                 | navigate mac UI with keyboard                                                                                           | ★★     |   $4/m |
 
+# Window switchers
+
+| App                                                             | Description                                                                                                      | Rating | Price  |
+| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| [AltTab](https://alt-tab-macos.netlify.app) 🔗                  | turn app switcher into window switcher with previews                                                             | ★★★    |     \- |
+| [Contexts](https://contexts.co) 🔗                              | cmd+tab replacement that shows windows not apps. very flexible and functional                                    | ★★★★   |    $10 |
+| [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) 🔗 | cmd+tab replacement. shows apps only. good looking but limited in functionality.                                 | ★★     | €15.50 |
+| [DocFlipper](https://docflipper.com) 🔗                         | Cmd+Tab switcher with bookmarks. Looks nice. Bookmarks is a cool idea, but does not switch between app windows.  | ★★★    |    $20 |
+| [Homerow](https://www.homerow.app) 🔗                           | navigate mac UI with keyboard                                                                                    | ★★     |  $40/y |
+| [rcmd](https://lowtechguys.com/rcmd/) 🔗                        | press *right cmd + letter* to switch to a specific app                                                           | ★★     |     €7 |
+| [SuperTab](http://www.supertab.me/SuperTab.html) 🔗             | cmd+tab replacer with more stuff                                                                                 | ★      |    $10 |
+| [Witch](https://manytricks.com/witch/) 🔗                       | another app/window switcher                                                                                      | ★★     | €16.49 |
+| [Wooshy](https://wooshy.app) 🔗                                 | navigate mac UI with keyboard                                                                                    | ★★     |   $4/m |
 
 
 ---------------------------------------------------------------------------
