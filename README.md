@@ -300,8 +300,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 # Extensions
 
 ## Insomnia
-- [Gist sync](https://insomnia.rest/plugins/insomnia-plugin-gist-sync) 🔗 - allows to sync stuff across machines.
-- [Default headers](https://github.com/Kong/insomnia/tree/develop/plugins/insomnia-plugin-default-headers) 🔗
+- [Global headers](https://insomnia.rest/plugins/insomnia-plugin-global-headers) 🔗
 
 
 
