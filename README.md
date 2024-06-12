@@ -87,6 +87,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 # Development
 - [Aurora](dev/aurora.md) ★ - opensource IDE built by the community, for the community.
+- [DBngin](https://dbngin.com) ★★★★ 🔗 - All-in-one database version management.
 - [CotEditor](https://coteditor.com/) ★★★ 🔗 - similar to Notepad++ for Windows.
 - [CodeEdit](https://www.codeedit.app) ★ 🔗 - opensource IDE, early alpha version, which shows. Very few things work and froze on a larger repo. Probably more targeted towards desktop/mobile rather than web devs.
 - [CommanderOne](https://ftp-mac.com) ★★★★ 🔗 - FTP client and dual-panel file manager (Limited free version and paid Pro: $30 for 1 mac).
@@ -95,6 +96,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Insomnia Core](https://insomnia.rest/download/#mac) ★★★ 🔗 - REST API tester. Extremely slow. Used to be good, now unusable.
 - [iTerm2](https://iterm2.com/) ★★★★★ 🔗 - Customizable terminal emulator.
 - [Kaleidoscope](https://kaleidoscope.app) ★★★ 🔗 - file & folder diff viewer, very easy to use & setup and very expensive (€150)
+- [Laravel Herd](https://herd.laravel.com) ★★★★ 🔗 - One click PHP development environment. Zero dependencies (basic version is free, pro is $100/yr).
 - [Marta](https://marta.sh) ★★★ 🔗 - 2-panel file browser with command palette
 - [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) ★★★ 🔗 - Regex tester (Paid: $3)
 - [Peek](https://www.bigzlabs.com/peek.html) ★★★ 🔗 - to quicklook code files (Paid: $3)
@@ -158,7 +160,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 # Productivity & automation
-- [Alfred](https://www.alfredapp.com) ★★★★★ 🔗 - absolutely the best Spotlight replacement. Basic version is free, but only with the "Powerpack" it reaches its full potential (Powerpack cost: £29)
+- [Alfred](https://www.alfredapp.com) ★★★★ 🔗 - Excellent Spotlight replacement. Basic version is free, but only with the "Powerpack" it reaches its full potential (Powerpack cost: £29)
 - [aText](https://www.trankynam.com/atext/) ★★★ 🔗 - text expander (Paid: $4.99).
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) ★★ 🔗 - context automation (abandonware).
 - [FiScript](https://github.com/Mortennn/FiScript) ★★★ 🔗 - add options to context menu.
@@ -172,7 +174,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [OwlOCR](https://owlocr.com/) ★★★★ 🔗 - OCR anything (Core version is free, Pro costs $8.99).
 - [Parcel](https://parcelapp.net) ★★★★ 🔗 - Tracks deliveries and can automatically fetch amazon orders! (Subscription ~€3.5/yr)
 - [PDFgear](https://www.pdfgear.com/) ★★★ 🔗 - although with a decade old UI, it's a decent app for pdf annotation, and can make filling non-interactive forms a breeze. And it's free!
-- [Raycast](https://www.raycast.com) ★★★★ 🔗 - spotlight alternative. Has lots of unrelated features out-of-the-box (window management, notes?). It's free for personal use.
+- [Raycast](https://www.raycast.com) ★★★★★ 🔗 - spotlight alternative. Has lots of features out-of-the-box. Hundreds of plugins in the store. Beautiful and fast. Free for personal use.
 - [Shiori](https://aki-null.net/shiori/) ★★★ 🔗 - pinboard client for mac (like Spotlight for pinboard).
 
 
