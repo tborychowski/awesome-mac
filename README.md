@@ -212,6 +212,8 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Forecast Bar](http://forecastbar.com) ★★★ 🔗 - a menubar weather app (Subscription ~€10.50 a year)
 - [iperf](https://iperf.fr/iperf-download.php) ★★★★ 🔗 - network performance/throughput measure tool.
 - [Latest](https://github.com/mangerlahn/Latest) ★★★ 🔗 - update apps - nicer UI than MacUpdater, but doesn't support many apps (that MacUpdater does), and doesn't run in background.
+- [LaunchControl](https://www.soma-zone.com/LaunchControl/) ★★★ 🔗 - GUI for launchd (Paid: €28.05).
+- [LingonX](https://www.peterborgapps.com/lingon/) ★★★ 🔗 - GUI for launchd (Paid: €23).
 - [Lunar](https://lunar.fyi) ★★★★ 🔗 - set external monitors brightness (hardware or software) (Paid: €20)
 - [MacUpdater](https://www.corecode.io/macupdater) ★★★★ 🔗 - Keep all applications up to date (Paid: $15).
 - [PasteBot](https://tapbots.com/pastebot/) ★★★★ 🔗 - best clipboard manager (Paid: $13)
