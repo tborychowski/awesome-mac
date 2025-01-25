@@ -238,7 +238,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [DayOne](https://dayoneapp.com) ★★★ 🔗 - Good diary/journal app (Basic free, or premium subscription: $36/yr)
 - [Diarly](https://diarly.app) ★★★★ 🔗 - Excellent diary/journal app (Basic free, or premium subscription: €23/yr)
 - [Fantastical](https://flexibits.com/fantastical) ★★★★★ 🔗 - probably the best calendar app for mac (Subscription €70/yr)
-- [Linear](https://linear.app) ★★★★ 🔗 - a beautiful project manager for teams and solo devs (generous free tier, Standard is $8/month). Can be 2-way synced with GitHub issues using [synclinear](https://synclinear.com) app.
+- [Linear](https://linear.app) ★★★*★ 🔗 - a beautiful project manager for teams and solo devs (free tier, Standard is $8/month). Can be 2-way synced with GitHub issues.
 - [Morgen](https://www.morgen.so) ★★★ 🔗 - Nice UI with a command-palette. Integrates with tasks and allows to move them to calendar. (Very limited free option. Sub: $9/m).
 - [Noteplan](task-managers/noteplan.md) ★★★ - Creates calendar events & tasks from markdown notes(Subscription: €117/y).
 - [Sorted](task-managers/sorted.md) ★★★ - (Paid: Pro $25 mac + $15 ios).
