@@ -90,7 +90,6 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [DBngin](https://dbngin.com) ★★★★ 🔗 - All-in-one database version management.
 - [CotEditor](https://coteditor.com/) ★★★ 🔗 - similar to Notepad++ for Windows.
 - [CodeEdit](https://www.codeedit.app) ★ 🔗 - opensource IDE, early alpha version, which shows. Very few things work and froze on a larger repo. Probably more targeted towards desktop/mobile rather than web devs.
-- [CommanderOne](https://ftp-mac.com) ★★★★ 🔗 - FTP client and dual-panel file manager (Limited free version and paid Pro: $30 for 1 mac).
 - [Dash](https://kapeli.com/dash) ★★★★ 🔗 - instant offline access to 200+ API documentation sets (you can even backup stack-overflow!) (Paid: €33).
 - [Forklift](https://binarynights.com/) ★★★★ 🔗 - 2 panel file browser (Paid: $29.95)
 - [Insomnia Core](https://insomnia.rest/download/#mac) ★★★ 🔗 - REST API tester. Extremely slow. Used to be good, now unusable.
@@ -98,6 +97,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Kaleidoscope](https://kaleidoscope.app) ★★★ 🔗 - file & folder diff viewer, very easy to use & setup and very expensive (€150)
 - [Laravel Herd](https://herd.laravel.com) ★★★★ 🔗 - One click PHP development environment. Zero dependencies (basic version is free, pro is $100/yr).
 - [Marta](https://marta.sh) ★★★ 🔗 - 2-panel file browser with command palette
+- [Nimble Commander](https://magnumbytes.com/) ★★★★ 🔗 - Best dual-panel file manager.
 - [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) ★★★ 🔗 - Regex tester (Paid: $3)
 - [Peek](https://www.bigzlabs.com/peek.html) ★★★ 🔗 - to quicklook code files (Paid: $3)
 - [RapidAPI (formerly: Paw)](https://paw.cloud) ★★★ 🔗 - API & HTTP client, now free!
