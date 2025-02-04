@@ -99,7 +99,6 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Marta](https://marta.sh) ★★★ 🔗 - 2-panel file browser with command palette
 - [Nimble Commander](https://magnumbytes.com/) ★★★★ 🔗 - Best dual-panel file manager.
 - [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12) ★★★ 🔗 - Regex tester (Paid: $3)
-- [Peek](https://www.bigzlabs.com/peek.html) ★★★ 🔗 - to quicklook code files (Paid: $3)
 - [RapidAPI (formerly: Paw)](https://paw.cloud) ★★★ 🔗 - API & HTTP client, now free!
 - [RegExp.app](https://loshadki.app/regexp/) ★★★ 🔗 - regex tester for JS, Python, Go, Swift & Rust
 - [Sequel Ace](https://sequel-ace.com/) ★★★ 🔗 - a nice MySQL/SQLite DB manager for mac.
@@ -303,27 +302,25 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 # Extensions
 
-## Insomnia
-- [Global headers](https://insomnia.rest/plugins/insomnia-plugin-global-headers) 🔗
-
+## Finder
+- [Peek](https://www.bigzlabs.com/peek.html) ★★★ 🔗 - to quicklook code files (Paid: $3).
+- [FolderPreview](https://anybox.ltd/folder-preview) ★★★ 🔗 - to preview folder contents.
 
 
 ## Safari
-- [StopTheMadness](http://underpassapp.com/StopTheMadness/) ★★★★ 🔗 - stops websites from making your browser harder to use
-- [Noir](https://apps.apple.com/ie/app/noir-dark-mode-for-safari/id1592917505?mt=12) ★★★★ 🔗 - make all websites dark. Has custom schedule and can ignore sites that already have dark mode. Available also for [iOS](https://getnoir.app) 🔗 (Mac $3, iOS $3).
-- [fav-tool](https://github.com/shy-neon/favtool) ★★ 🔗 - not really an extension but a useful tool. Allows to set custom favicons for bookmarks on Safari's new tab page.
 - [Keys](https://github.com/Appccessibility-Shox/Keys) ★★★ 🔗 - lets users keyboard-navigate the web by dynamically generating and rendering shortcut keys in the least ugly/confusing way possible.
+- [Noir](https://apps.apple.com/ie/app/noir-dark-mode-for-safari/id1592917505?mt=12) ★★★★ 🔗 - make all websites dark. Has custom schedule and can ignore sites that already have dark mode. Available also for [iOS](https://getnoir.app) 🔗 (Mac $3, iOS $3).
+- [SponsorBlock](https://sponsor.ajay.app) ★★★★ 🔗  - skips sponsored segments in YouTube videos (Paid for Safari: $4).
+- [StopTheMadness](http://underpassapp.com/StopTheMadness/) ★★★ 🔗 - stops websites from making your browser harder to use
+- [SuperCopy](https://www.finnvoorhees.com/supercopy) ★★★★ 🔗 - copy URL of the current tab with `⌘+⇧+C`
+- [UnTrap](https://untrap.app) ★★★★ 🔗 - Customize youtube (remove sidebar, toolbar sections, etc.) (Paid for Safari: $2).
 - [UserScripts](https://github.com/quoid/userscripts) ★★★ 🔗 - allows to inject custom script to sites (like temper monkey, et al.), e.g. to get [Youtube dislike button](https://www.returnyoutubedislike.com/) back.
-- [SponsorBlock](https://sponsor.ajay.app) ★★★ 🔗  - skips sponsored segments in YouTube videos (Paid for Safari: $4).
-- [UnTrap](https://untrap.app) ★★★ 🔗 - Customize youtube (remove sidebar, toolbar sections, etc.) (Paid for Safari: $2).
-
 
 
 ## Firefox
-- [StopTheMadness](https://underpassapp.com/StopTheMadness/install/firefox.html) ★★★★ 🔗 - stops websites from making your browser harder to use
+- [StopTheMadness](https://underpassapp.com/StopTheMadness/install/firefox.html) ★★★ 🔗 - stops websites from making your browser harder to use
 - [Adguard Ad-blocker](https://addons.mozilla.org/en-GB/firefox/addon/adguard-adblocker/) ★★★★ 🔗 - similar to ublock origin.
 - [Adguard Browser Assistant](https://adguard.com/en/adguard-assistant/overview.html#firefox) ★★★★ 🔗 - useful when used in conjunction with Adguard for Mac.
-- [Bitwarden](https://addons.mozilla.org/en-GB/firefox/addon/bitwarden-password-manager/) ★★★ 🔗 - password manager (when used in conjunction with the self-hosted bitwarden_rs server).
 - [Cookies.txt](https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/) ★★★ 🔗 - exports cookies.
 - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) ★★★ 🔗 - change website to dark theme.
 - [PerfectHome](https://addons.mozilla.org/en-GB/firefox/addon/perfect-home/) ★★★★★ 🔗 - best new-tab replacement :wink:.
@@ -333,13 +330,14 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 ## VSCode
 - [Apache Conf](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-apache) 🔗 - config file syntax support.
-- [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) 🔗 - Companion to Dash app. Shows docs on highlighted code.
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) 🔗 - `.env` syntax highlighting.
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) 🔗 - plugin for [editorconfig](https://editorconfig.org/).
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) 🔗 – show errors better.
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) 🔗 – js/ts syntax validator.
+- [GithubCopilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 🔗 - AI coding helper.
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) 🔗 - CSS Intellisense for HTML.
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) 🔗 - keyboard shortcuts, table of contents, auto preview and more.
+- [Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve) 🔗 - Preserves case of the selected words, when editing multiple words at once.
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) 🔗 - autocompletes npm modules in import statements.
 - [Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) 🔗 - adds two new context menus to the Explorer: "Open New Workbench Here" and "Reopen Workbench Here".
 - [Open in Finder](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-open-in-finder) 🔗 - opens the current file or project in Finder.
@@ -348,9 +346,9 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [perfect-dark](https://github.com/perfect-things/vscode-perfect-dark) 🔗 - absolutely best dark theme for VSCode.
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) 🔗 - better PHP support (has an annoying "buy pro" popup with every update).
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) 🔗 - CSS, Less & Sass Linter support.
-- [stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus) 🔗 - language support for the best css preprocessor.
 - [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets) 🔗 - Underlined matching brackets without covering the code (like the native does).
 - [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) 🔗 - syntax highlighting and rich intellisense for Svelte components.
+- [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) 🔗 - SVG Language Support Extension. Can preview SVG images.
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) 🔗 - shows package version information e.g. in `package.json` files.
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) 🔗 - best icons for VSCode.
 
