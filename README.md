@@ -88,10 +88,11 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 # Design
 ### Podium
-- [Sketch](http://sketch.com) ★★★★★ 🔗 - a design tool with amazing UX (Subscription: $120/yr)
-- [ColorSlurp](https://colorslurp.com) ★★★★★ 🔗 - best color picker for mac! (Freemium, Pro €8)
 - [CleanShot X](https://cleanshot.com) ★★★★★ 🔗 - Best screenshot/video recording app for mac! (Paid: $29)
+- [ColorSlurp](https://colorslurp.com) ★★★★★ 🔗 - best color picker for mac! (Freemium, Pro €8)
 - [PixelSnap2](https://getpixelsnap.com) ★★★★★ 🔗 - measure stuff on screen, draw guides, etc. ($40)
+- [Sketch](http://sketch.com) ★★★★★ 🔗 - a design tool with amazing UX (Subscription: $120/yr)
+
 
 ### Contenders
 - [Iconology](https://apps.apple.com/us/app/iconology/id1463452867) ★★ 🔗 - icon maker
