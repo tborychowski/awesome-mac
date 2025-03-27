@@ -315,6 +315,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [SuperCopy](https://www.finnvoorhees.com/supercopy) ★★★★ 🔗 - copy URL of the current tab with `⌘+⇧+C`
 - [UnTrap](https://untrap.app) ★★★★ 🔗 - Customize youtube (remove sidebar, toolbar sections, etc.) (Paid for Safari: $2).
 - [UserScripts](https://github.com/quoid/userscripts) ★★★ 🔗 - allows to inject custom script to sites (like temper monkey, et al.), e.g. to get [Youtube dislike button](https://www.returnyoutubedislike.com/) back.
+- [Archive.today](https://getarchiveapp.github.io) ★★★★  🔗 - access internet-archived version of the current site with a button (Paid €2).
 
 
 ## Firefox
