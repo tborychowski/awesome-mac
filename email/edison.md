@@ -1,4 +1,4 @@
-# [Edison Mail](https://www.edison.tech) ★★★
+# [Edison Mail](https://www.edison.tech) ★★
 
 
 - pretty configurable
