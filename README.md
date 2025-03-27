@@ -80,7 +80,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [Firefox](https://www.mozilla.org/en-US/firefox/) ★★★ 🔗 - secure & configurable web browser. Used to be great, but not anymore.
 - [Choosy](https://www.choosyosx.com/) ★★★ 🔗 - Opens every link in the right browser (Paid: $10).
 - [SigmaOS](https://sigmaos.com) ★★ 🔗 - Tabs in the sidebar. Like Arc but worse. Cannot even change the wallpaper.
-- [Zen](http://zen-browser.app/) ★★★ 🔗 - Firefox reskined to look like Arc. Better than sigmaOS, but still far to go to usable.
+- [Zen](http://zen-browser.app/) ★★★ 🔗 - Firefox reskined to look like Arc. Better than sigmaOS, but still far to go to be usable.
 
 
 
