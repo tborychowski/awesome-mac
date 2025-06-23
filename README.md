@@ -167,15 +167,15 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 # Notes and writing
 ### Podium
-- [Craft](notes/craft.md) ★★★★ - note taking and organizing app (Subscription: $60/year, with a decent free option).
+- [Craft](notes/craft.md) ★★★★★ - note taking and organizing app (Subscription: $60/year, with a decent free option).
 - [Mela](https://mela.recipes) ★★★★ 🔗 - simple, elegant and modern recipe manager (Paid: $10 mac, $5 ios).
 - [Ulysses](notes/ulysses.md) ★★★★★ - amazing writing app, with grammar check (Subscription: $50/year).
 
 
 ### Contenders
-- [Bear](notes/bear.md) ★★★ - note taking (Subscription: $30/year).
+- [Bear](notes/bear.md) ★★★ - note taking app based on markdown and tags. (Subscription: $30/year).
 - [Drafts](notes/drafts.md) ★★ - note taking (Subscription: €21/year).
-- [Evernote](http://evernote.com) ★★ 🔗 - simple note taking app that just works! Decent UX and ubiquitous support, and joy to work with (Subscription: $120/y).
+- [Evernote](http://evernote.com) ★★ 🔗 - simple note taking app that just works. OK-ish UX and ubiquitous support (Subscription: $160/y).
 - [FirstDraftPro](notes/firstdraftpro.md) ★★★ - writing app (Subscription: $84/year).
 - [GoodNotes](notes/goodnotes.md) ★ - note taking (Paid: $9).
 - [Mellel](notes/mellel.md) ★ - word processor (Paid: €50).
@@ -201,18 +201,18 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 ### Podium
 - [Alfred](https://www.alfredapp.com) ★★★★ 🔗 - Excellent Spotlight replacement. Basic version is free, but only with the "Powerpack" it reaches its full potential (Powerpack cost: £29)
 - [Raycast](https://www.raycast.com) ★★★★★ 🔗 - spotlight alternative. Has lots of features out-of-the-box. Hundreds of plugins in the store. Beautiful and fast. Free for personal use.
-- [Parcel](https://parcelapp.net) ★★★★ 🔗 - Tracks deliveries and can automatically fetch amazon orders! (Subscription ~€3.5/yr)
+- [Parcel](https://parcelapp.net) ★★★★ 🔗 - Tracks deliveries and can automatically fetch amazon orders! (Subscription ~€5/yr)
 
 
 ### Contenders
-- [aText](https://www.trankynam.com/atext/) ★ 🔗 - text expander. v2 was good. v3 is unusablean abomination of an app! (Paid: $5/y or $30 lifetime).
+- [aText](https://www.trankynam.com/atext/) ★ 🔗 - text expander. v2 was good. v3 is an unusable abomination of an app! (Paid: $5/y or $30 lifetime).
 - [ControlPlane](https://github.com/dustinrue/ControlPlane) ★★ 🔗 - context automation (abandonware).
 - [FiScript](https://github.com/Mortennn/FiScript) ★★★ 🔗 - add options to context menu.
 - [Gestimer](http://maddin.io/gestimer/) ★★★ 🔗 - for quick reminders. v2 not as good as v1. (Paid: $10)
 - [Glide](https://apps.apple.com/us/app/glide-focus-pointer/id1593045116?mt=12) - Glide is a focus pointer which dims parts of your screen for better focus and reading experience (Paid: $7).
 - [Homerow](https://www.homerow.app) ★★★ 🔗 - navigate everything on screen with the keyboard (free for now, later paid: ~$30-40)
 - [JustFocus](https://getjustfocus.com/) ★★★ 🔗 - A simple and free pomodoro app, that shows full-screen notifications.
-- [Klokki Slim](https://apps.apple.com/app/id1459795140) ★★★ 🔗 - nice & simple 5time tracking app.
+- [Klokki Slim](https://apps.apple.com/app/id1459795140) ★★★ 🔗 - nice & simple time tracking app.
 - [OpenIn](https://loshadki.app/openin/) ★★★ 🔗 - Handle opening urls & files in different browsers (allows for rules or even javascripts) (Paid: $10)
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ★★★ 🔗 - Finder toolbar and menubar app for MacOS to open the current directory in Terminal, iTerm, VSCode and others.
 - [OwlOCR](https://owlocr.com/) ★★★ 🔗 - OCR anything (Core version is free, Pro costs $8.99).
@@ -228,7 +228,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 ### Contenders
 - [Bitwarden](https://bitwarden.com/) ★★★ 🔗 - Self-hostable, open source password manager with free apps for mobile & desktop.
-- [Enpass](https://www.enpass.io) ★★★★ 🔗 - a nice password manager with 2e2 encryption and custom storage (dropbox, icloud, google drive, etc). (Subscription: €22/y or lifetime: €93)
+- [Enpass](https://www.enpass.io) ★★★ 🔗 - a nice password manager with 2e2 encryption and custom storage (dropbox, icloud, google drive, etc). (Subscription: €22/y or lifetime: €93)
 
 
 
@@ -239,7 +239,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 
 
 ### Contenders
-- [Reeder](https://reederapp.com) ★★★★ 🔗 - A decent replacement for the classic version, but not as good (yet?) (Sub: $10/y).
+- [Reeder](https://reederapp.com) ★★★ 🔗 - A decent replacement for the classic version, but not as good (Sub: $10/y).
 - [HackIt](https://github.com/anosidium/HacKit-Feedback-And-Support) ★★★ 🔗 - native hacker news app for mac.
 - [Muzzle](https://muzzleapp.com/) ★★★ 🔗 - Automatically turn on Do Not Disturb when screen sharing.
 - [Session](https://getsession.org/) ★★★ 🔗 - Even more private Signal clone.
@@ -252,7 +252,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 # System admin & other tools
 ### Podium
 - [AppCleaner](https://freemacsoft.net/appcleaner/) ★★★★ 🔗 - Cleans-up after you uninstall another app.
-- [Bartender](https://www.macbartender.com) ★★★★ 🔗 - Hide icons in menubar (Paid: $15 + local taxes).
+- [Bartender](https://www.macbartender.com) ★★★ 🔗 - Hide icons in menubar (Paid: $15 + local taxes).
 - [Daisy Disk](https://daisydiskapp.com/) ★★★★ 🔗 - Disk usage viewer/manager (Paid: €11)
 - [Dato](https://sindresorhus.com/dato) ★★★★ 🔗 - Menubar Clock with calendar integration (Paid: $4.99)
 - [DropOver](https://dropoverapp.com) ★★★★ 🔗 - drag&drop helper (Paid: €4)
@@ -272,6 +272,7 @@ Related list: [awesome-ios](https://github.com/tborychowski/awesome-ios)
 - [PasteBot](https://tapbots.com/pastebot/) ★★★ 🔗 - best clipboard manager (Paid: $13)
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) ★★★ 🔗 - AppCleaner alternative. Quite good and has CLI.
 - [PopClip](https://pilotmoon.com/popclip/) ★★★ 🔗 - popover on selected text (like on iOS but better) (Paid: $19)
+- [ProcessSpy](https://process-spy.app/) ★★★ 🔗 - shows all processes and the actually useful details (like command) (Paid: $7)
 - [ScreenFocus](https://www.apptorium.com/screenfocus) ★★★ 🔗 - dim other monitors when not needed (Paid: $8)
 - [SDCardFormatter](https://www.sdcard.org/downloads/formatter/index.html) ★★★ 🔗 - does the job.
 - [Shortcut Detective](https://www.irradiatedsoftware.com/labs/) ★★★ 🔗 - detects which app receives a keyboard shortcut (hotkey)
